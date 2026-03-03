@@ -1,4 +1,4 @@
-# Avani Purohit - Portfolio Website
+# Avani Purohit - Portfolio Website html/css/js
 
 A modern, responsive, and professional portfolio website for Avani Purohit, Full Stack Software Developer.
 
